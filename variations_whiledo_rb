@@ -2,3 +2,6 @@
 #   puts "I ran."
 # end
 
+a = (0..100).to_a
+
+puts a 
